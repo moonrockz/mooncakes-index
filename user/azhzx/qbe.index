@@ -1,0 +1,1 @@
+{"name": "azhzx/qbe", "version": "0.1.0", "readme": "README.mbt.md", "repository": "", "license": "Apache-2.0", "keywords": [], "preferred_target": "wasm", "description": "", "deps": {"moonbitlang/x": "0.4.38", "moonbitlang/async": "0.21.0"}, "checksum": "7ce9b7e159d1b1aa10b7bc8716d1e58c685d963c8752e0c7278177b4947a73ec", "created_at": "2026-08-24T13:09:06.913165+00:00"}
