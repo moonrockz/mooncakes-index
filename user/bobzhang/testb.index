@@ -1,1 +1,1 @@
-{"name": "bobzhang/testb", "version": "0.1.0", "deps": {"bobzhang/testa": "0.1.0"}, "checksum": "4ac24a7b27ecd73288f28ec83106bc83bf0718e99e1138b10e49ea38f48cbce9"}
+{"deps":{"bobzhang/testa":"0.1.0"},"name":"bobzhang/testb","yanked":true,"version":"0.1.0","checksum":"4ac24a7b27ecd73288f28ec83106bc83bf0718e99e1138b10e49ea38f48cbce9","yanked_reason":"This package is deprecated. Please do not use it in new projects."}
