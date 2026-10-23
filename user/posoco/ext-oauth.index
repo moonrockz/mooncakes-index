@@ -1,0 +1,1 @@
+{"deps":{"moonbitlang/x":"0.5.5","colmugx/posoco":"0.20.0","moonbitlang/async":"0.22.4"},"name":"posoco/ext-oauth","readme":"README.mbt.md","source":"src","yanked":false,"license":"Apache-2.0","version":"0.1.0","checksum":"f576d29f7644fefce3d0056bad084396fb946756c60139558c046915c52fd8f6","created_at":"2026-09-30T14:26:23.576819+00:00","yanked_reason":null}
