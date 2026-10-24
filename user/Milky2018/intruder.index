@@ -1,0 +1,1 @@
+{"name":"Milky2018/intruder","readme":"README.md","yanked":false,"license":"Apache-2.0","version":"0.1.0","checksum":"2825af30eef1f58aa37640fe1cb669d6b9981eccd0a11e866404052df63e2d5e","created_at":"2026-10-23T06:56:51.515623+00:00","description":"Harmless dev_build execution probe: generates and prints a marker only.","yanked_reason":null,"preferred-target":"wasm"}
