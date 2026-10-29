@@ -1,0 +1,1 @@
+{"deps":{"moonbitlang/lexer":"0.4.4"},"name":"moonbit-community/lexical_edit","readme":"README.mbt.md","yanked":false,"license":"Apache-2.0","version":"0.1.0","checksum":"7b27262eedc1395a550b9a95e8a6cdbbbcb9ff4ab86e7ed630a5f601477fca04","keywords":[],"created_at":"2026-10-29T01:25:31.248052+00:00","repository":"","description":"","yanked_reason":null,"preferred-target":"wasm"}
