@@ -1,0 +1,1 @@
+{"deps":{"gaato/mttp_core":"0.1.0"},"name":"gaato/gemini","readme":"README.md","source":"src","yanked":false,"license":"Apache-2.0","version":"0.1.0","checksum":"2ae8b05718c71e9953a4f89825f66290cb1017c2730a90e2f807e46e26e3603d","created_at":"2026-11-16T03:08:50.095319+00:00","repository":"https://github.com/gaato/moonbit-sdks","yanked_reason":null,"preferred-target":"wasm-gc"}
